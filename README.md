@@ -8,11 +8,30 @@
 
  [Takumi from Japan](https://tkmh.me "Title") 
 
+ [jam3](https://www.jam3.com/ "jam3")
+
+ [resn](http://resn.co.nz/  "resn")
+
+### FM
+
+[博物志](https://bowuzhi.fm/ "博物志")
+
+[Anyway！](https://anyway.fm/)
+
+[內核恐慌](https://kernelpanic.fm/)
+
 
 ### 讀
 
  [Read free!](http://readfree.me/ "Read free") 
 
+### 雜誌
+
+ [medium](https://medium.com/ "medium") 
+
+ [I-D](https://i-d.vice.com/en_us)
+
+ [aeon](https://aeon.co/)
 
 ### 國內前端
 
@@ -33,3 +52,6 @@
  [方便的找字體](https://lineto.com/ "") 
 
  [Can I Use](https://caniuse.com "") 
+
+ [JS 動畫組件](https://plainjs.com/ "") 
+
