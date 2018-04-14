@@ -8,9 +8,17 @@
 
  [Takumi from Japan](https://tkmh.me "Title") 
 
+ [YOICHI KOBAYASHI from Japan](http://www.tplh.net/ "")
+
  [jam3](https://www.jam3.com/ "jam3")
 
  [resn](http://resn.co.nz/  "resn")
+
+ [ueno](https://ueno.co/ "")
+
+ [homunculus from Japan](http://homunculus.jp/ "")
+
+ [the shift](https://theshift.tokyo "")
 
 ### FM
 
